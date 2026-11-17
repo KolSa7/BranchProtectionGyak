@@ -1,4 +1,5 @@
-print ("Hello World")
+ print ("Hello World")
 a = 10
 
-b = a/0
+b = a/2
+print(b)
